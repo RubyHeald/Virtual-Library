@@ -1,1 +1,2 @@
-// Import classes here to console.log and debug
+const Book = require('./Book');
+const Media = require('./Media');
